@@ -1,4 +1,5 @@
-🧠 Machine Learning College Assessment – Classification Project
+🧠## Machine Learning College Assessment – Classification Project
+
 This repository contains a machine learning project I completed as part of my college coursework. The task involved working with a dataset (log2.csv) to build, evaluate, and analyze classification models using Python.
 
 All external resources and references used have been properly credited.
